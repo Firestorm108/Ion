@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Ion (Corona Discharge
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/761).
 
 
-## 10/19/2025 - Research  
+## 10/19/2025 10 AM - Research  
 
 There are a few goals I want to achieve with this machine.
 
@@ -23,5 +23,18 @@ There are a few goals I want to achieve with this machine.
 -Audio modulation in order to make the machine play music with the plasma
 
 I would like it to be a nice proof of concept to demonstrate that corona discharge engraving (which has not been done before) is a viable alternative to other methods such as lasers and hot wires.![maxresdefault.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--cd5afaa8cf97824e0d94876fd862a9832db00582/maxresdefault.jpg)
+  
+
+## 10/19/2025 2 PM - Made the y-axis  
+
+Made the frame out of 2020 extrusions and some corner brackets
+Dual steppers for the y-axis
+Added double shear for the idlers and motor
+Made mounts for everything
+Designed belt tensioners on the idler side
+
+The y-axis is basically finished, might need some minor tweaks later though
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU0MywicHVyIjoiYmxvYl9pZCJ9fQ==--fecf83926f53b5dafdab5694cb4f44bb59e71be7/image.png)
   
 
