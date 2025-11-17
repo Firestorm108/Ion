@@ -6,3 +6,4 @@ I designed this because I believe there are a few interesting applications of th
 <img width="1917" height="896" alt="Assembly_2025-Nov-17_12-01-17AM-000_CustomizedView23543439550" src="https://github.com/user-attachments/assets/b49ff69d-015d-4845-a635-fc2f3b2ba29f" />
 
 
+<img width="631" height="315" alt="image" src="https://github.com/user-attachments/assets/f048a656-2fc4-4587-addb-548dcefee5a8" />
